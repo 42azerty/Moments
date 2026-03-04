@@ -33,7 +33,7 @@ Installation
 
     bash
 
-    git clone https://github.com/yourusername/moments.git
+    git clone https://github.com/42azerty/moments.git
 
     Open the Project
     Open the project in Android Studio.
@@ -90,4 +90,4 @@ For any questions or comments, please reach out to:
 
     Name: 42azerty
     Email: [yolotestgmayl@gmail.com]
-    GitHub: https://github.com/yourusername
+    GitHub: https://github.com/42azerty
